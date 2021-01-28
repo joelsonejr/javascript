@@ -1,4 +1,4 @@
-// This codes comprehend a function receives an array, organizes it ( in crescent order), and 
+// This script comprehends a function receives an array, organizes it ( in crescent order), and 
 // returns it.
 
 function ordenaArray(a)
