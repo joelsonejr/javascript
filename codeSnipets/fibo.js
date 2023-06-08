@@ -1,6 +1,5 @@
 //Function to execute the Fibonacci sequence for a define number of times. This number is indicated by the function input.
 
-let interations = 7;
 
 function fibo(interations) {
 	let fiboSequence=[];
@@ -21,3 +20,6 @@ function fibo(interations) {
 	return(fiboSequence);
 }
 
+let fibonnaci = fibo(10);
+
+console.log(fibonnaci);
